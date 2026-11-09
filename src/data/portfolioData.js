@@ -5,7 +5,7 @@
 
 export const personalInfo = {
   name: "Abel Yesfa",
-  title: " full stack & App Developer",
+  title: "Full Stack & App Developer",
   tagline: "Building modern digital experiences with React & Flutter.",
   about:
     "I am a 4th-year Computer Science student passionate about building responsive web and mobile applications. and. I juiner website developer in designing and building responsive web applications continuous learning. Skilled in a strong drive for problem-solving and innovative thinking. A collaborative team player with a keen eye for detail. Proven track record in full-stack development using MERN stack and mobile development.",
