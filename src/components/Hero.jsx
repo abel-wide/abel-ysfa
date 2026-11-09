@@ -9,7 +9,7 @@ export default function Hero() {
         {/* Left Content */}
         <div>
           <p className="text-primary font-bold tracking-wider uppercase mb-3">Hello, I'm</p>
-          <h1 className="text-5xl md:text-6xl font-extrabold text-slate-900 mb-4">{personalInfo.name}</h1>
+          <h1 className="text-5xl md:text-6xl font-extrabold text-slate-900 mb-4 typing-text">{personalInfo.name}</h1>
           <h2 className="text-xl md:text-2xl text-slate-600 font-semibold mb-6 typing-text h-[60px] md:h-auto">
           {personalInfo.title}</h2>
           <p className="text-slate-500 leading-relaxed mb-8 max-w-lg">{personalInfo.about}</p>
